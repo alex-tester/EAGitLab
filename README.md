@@ -3,20 +3,20 @@ A PowerShell module to manage Users, Groups, and Projects in GitLab. Uses the Gi
 
 Provides the following functions:
 
-Get-ESEAutoAllGitGroups
+Get-AllGitGroups
 
-Get-ESEAutoAllGitGroupsAndMembers
+Get-AllGitGroupsAndMembers
 
-Get-ESEAutoAllGitUsers
+Get-AllGitUsers
 
-Get-ESEAutoGitGroupID
+Get-GitGroupID
 
-Get-ESEAutoGitUserID
+Get-GitUserID
 
-New-ESEAutoGitGroup
+New-GitGroup
 
-New-ESEAutoGitGroupAccessRequest
+New-GitGroupAccessRequest
 
-New-ESEAutoGitUser
+New-GitUser
 
-Add-ESEAutoGitGroupMember
+Add-GitGroupMember
